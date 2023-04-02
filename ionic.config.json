@@ -1,0 +1,7 @@
+{
+  "name": "rdwnTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
